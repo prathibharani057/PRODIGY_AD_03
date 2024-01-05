@@ -3,7 +3,7 @@
 
 
 ## Description
-This Stopwatch Android app was developed as Task 3 for the Prodigy Internship. It offers precise time tracking functionalities.
+This Stopwatch Android app was developed as Task-3 for the Prodigy Internship. It offers precise time tracking functionalities.
 
 ## Features
 - Start, pause, and reset functionality.
